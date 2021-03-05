@@ -1,0 +1,83 @@
+[
+{
+    "type": "body",
+    "description":"Puxe seu braço sobre o peito com a ajuda do outro braço, permaneça nesta posição por 15 segundos, cada braço",
+    "amount":"60"
+},
+
+{
+    "type": "body",
+    "description":"Estique seu braço com a palma da mão para frente puxando os desdos com a outra mão, permaneça nesta posição por 15 segundos, cada braço",
+    "amount":"80"
+},
+
+{
+    "type": "body",
+    "description":"Puxe seu pescoço com a ajuda de uma das mãos para direita e para a esquerda, permaneça nesta posição por 20 segundos, cada lado",
+    "amount":"60"
+},
+
+{
+    "type": "body",
+    "description":"Encoste o queixo o mais proximo do peito possível e depois incline a cabeça para tras, permaneça nesta posição por 20 segundos, cada lado",
+    "amount":"60"
+},
+
+{
+    "type": "body",
+    "description":"Incline seu corpo até conseguir tocar o chão ou o mais proximo disso, permaneça nesta posição por 30 segundos",
+    "amount":"160"
+},
+
+{
+    "type": "body",
+    "description":"Puxe seu braço sobre o peito com a ajuda do outro braço, permaneça nesta posição por 15 segundos, cada braço",
+    "amount":"60"
+},
+
+{
+    "type": "body",
+    "description":"Coloque as mãos nos ombros e faça movimentos de rotação para frente e para tras, repita por 20 segundos",
+    "amount":"70"
+},
+
+{
+    "type": "eyes",
+    "description":"Olhe fixamente para uma caneta enquanto afasta e aproxima a mesma de seu nariz, faça este movimento 20 vezes",
+    "amount":"90"
+},
+
+{
+    "type": "body",
+    "description":"Sente-se, incline o corpo até encostar o peito nas pernas e pegar seus pés, permaneça nesta posição por 10 segundos, depois levante-se sem soltar os pés, permaneça nesta posição por mais 10 segundos",
+    "amount":"160"
+},
+
+{
+    "type": "eyes",
+    "description":"Feche os olhos, permaneça assim por 15 segundos",
+    "amount":"60"
+},
+
+{
+    "type": "body",
+    "description":"Com a coluna reta, vire-se para direita até tocar o encosto da cadeira, permaneça nesta posição por 15 segundos, repita o movimento para a esquerda",
+    "amount":"80"
+},
+
+{
+    "type": "eyes",
+    "description":"Faça movimentos circulares com os pulsos, por 30 segundos",
+    "amount":"60"
+},
+{
+    "type": "eye",
+    "description": "Em algum ambiente aberto, olhe o mais longe que puder em quatro direções por 3s, mexa apenas os olhos. Repita 3 vezes.",
+    "amount": 140
+  },
+  {
+    "type": "eye",
+    "description": "Usando os polegares, massage a área abaixo das sobrancelhas em movimentos circulares por 15 segundos.",
+    "amount": 70
+  }
+]
