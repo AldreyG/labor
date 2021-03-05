@@ -33,7 +33,7 @@ export function ChallengeBox() {
                         <p>{activeChallenge.description}</p>
                     </main>
                     <footer>
-                        <button type="button" 
+                        <button type="button"
                             className={styles.challengeFailedButton} 
                             onClick={handleChallengeFailed}
                         >
